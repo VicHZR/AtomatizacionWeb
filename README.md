@@ -2,19 +2,18 @@
 
 <p align="left">
   <a href="https://oracle.com">
-    <img src="https://shields.io"/>
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   </a>
   <a href="https://selenium.dev">
-    <img src="https://shields.io"/>
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   </a>
   <a href="https://cucumber.io">
-    <img src="https://shields.io"/>
+    <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
   </a>
   <a href="https://apache.org">
-    <img src="https://shields.io"/>
+    <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
   </a>
 </p>
-
 ---
 
 ## 🚀 Overview
